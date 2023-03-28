@@ -1,0 +1,3 @@
+newFoo 파일 생성
+end
+
