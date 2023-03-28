@@ -2,8 +2,3 @@ BB
 CC
 
 
-ZZZ
-DDDD
-
-RRRRR
-ZZZZZ
