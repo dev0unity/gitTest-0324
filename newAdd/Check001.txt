@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Check 001 파일 생성
+=======
+Check001 txt
+
+>>>>>>> fb40756a29dd326e27fdc42d83403faafb4805e0
